@@ -5,7 +5,7 @@ directoryIndex: index.html
 
 strains:
   default:
-    code:
+    code: /io-solutions/default/https---github-com-hirenoble-api-hlx-git--master--
     content: https://github.com/hirenoble/api-hlx.git#master
     static: https://github.com/hirenoble/api-hlx.git#master
     staticRoot: /webroot
