@@ -1,0 +1,12 @@
+content: https://github.com/hirenoble/api-final.git#master
+static: https://github.com/hirenoble/api-final.git#master
+staticRoot: /webroot
+directoryIndex: index.html
+
+strains:
+  default:
+    code:
+    content: https://github.com/hirenoble/api-final.git#master
+    static: https://github.com/hirenoble/api-final.git#master
+    staticRoot: /webroot
+    directoryIndex: index.html
